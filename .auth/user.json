@@ -2,20 +2,20 @@
   "cookies": [
     {
       "name": "_ga",
-      "value": "GA1.2.1441978825.1718979828",
+      "value": "GA1.2.1132764929.1719001695",
       "domain": ".demoqa.com",
       "path": "/",
-      "expires": 1753539827.695792,
+      "expires": 1753561694.77224,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "_gid",
-      "value": "GA1.2.1551861837.1718979828",
+      "value": "GA1.2.1934105964.1719001695",
       "domain": ".demoqa.com",
       "path": "/",
-      "expires": 1719066227,
+      "expires": 1719088094,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -25,44 +25,24 @@
       "value": "1",
       "domain": ".demoqa.com",
       "path": "/",
-      "expires": 1718979887,
+      "expires": 1719001754,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "receive-cookie-deprecation",
-      "value": "1",
-      "domain": ".criteo.com",
-      "path": "/",
-      "expires": 1752675828.232197,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "ar_debug",
-      "value": "1",
-      "domain": "measurement-api.criteo.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "__eoi",
-      "value": "ID=9292001b81329346:T=1718979827:RT=1718979827:S=AA-AfjY29v0gFxHEnt8j-ZTKKz9Z",
+      "value": "ID=552bad07c7edcf9c:T=1719001694:RT=1719001694:S=AA-AfjYzfDqpyFPos5Qwez44Tl3P",
       "domain": ".demoqa.com",
       "path": "/",
-      "expires": 1734531827,
+      "expires": 1734553694,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "token",
-      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IkV2Y2hlbk5pZSIsInBhc3N3b3JkIjoiRXZjaGVuITExMDgiLCJpYXQiOjE3MTg5Nzk4Mjh9.PeexteFnl9zfu9WUk827hZCV1rni5PfYENE6iKg2_uk",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IkV2Y2hlbk5pZSIsInBhc3N3b3JkIjoiRXZjaGVuITExMDgiLCJpYXQiOjE3MTkwMDE2OTZ9.jBVSloi0109ahIusi61k86SAuyAA4ICUoYsMgYPOwyg",
       "domain": "demoqa.com",
       "path": "/",
       "expires": -1,
@@ -72,7 +52,7 @@
     },
     {
       "name": "expires",
-      "value": "2024-06-28T14%3A23%3A48.147Z",
+      "value": "2024-06-28T20%3A28%3A16.009Z",
       "domain": "demoqa.com",
       "path": "/",
       "expires": -1,
