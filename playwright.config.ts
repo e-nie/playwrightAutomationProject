@@ -41,7 +41,8 @@ export default defineConfig({
     /* Set a higher timeout for the expect() assertions. */
     timeout: 5000,
   },
-  testMatch: 'test.list.ts',
+  // testMatch: 'test.list.ts',
+
   /* Configure projects for major browsers */
   projects: [
     { name: 'setup', testMatch: /.*\.setup\.ts/ },
