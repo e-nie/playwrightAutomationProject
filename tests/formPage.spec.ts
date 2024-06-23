@@ -36,6 +36,7 @@ it.describe('FORM PAGE TYPE', () => {
     it('Fill all fields', async ({ page }) => {
         await page.goto("https://www.lambdatest.com/selenium-playground/input-form-demo")
 
+        // Accepting the cookies
         page.on('dialog', async dialog => { await dialog.accept() })
         await page.getByRole('button', { name: "Allow all" }).click();
 
