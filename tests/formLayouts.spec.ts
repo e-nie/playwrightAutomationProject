@@ -5,7 +5,7 @@ test.describe('FORM LAYOUTS', () => {
         await page.goto("http://localhost:4200/pages/forms/layouts")
     })
 
-    test.only('Inline form', async ({ page }) => {
+    test('Inline form', async ({ page }) => {
     // await page.goto("http://localhost:4200/pages/forms/layouts")
         await page.locator('input[placeholder="Jane Doe"]').fill('Evchen Wonderful')
         await page.locator('input[placeholder="Email"]').nth(0).fill('EvchenWonderful@Brilliance.com')
